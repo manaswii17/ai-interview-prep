@@ -144,3 +144,4 @@ REST_FRAMEWORK = {
         "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
 }
+DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
